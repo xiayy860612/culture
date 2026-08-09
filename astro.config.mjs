@@ -16,7 +16,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 //   把 site 改成 'https://xiayy860612.github.io'，并额外加上
 //   `base: '/culture'`，同时删除 public/CNAME 文件。
 export default defineConfig({
-	site: 'https://your-domain.example.com', // TODO: 替换成你自己的域名
+	site: 'https://culture.s2u2m.com', // TODO: 替换成你自己的域名
 	integrations: [sitemap()],
 	fonts: [
 		{
